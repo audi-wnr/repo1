@@ -9,5 +9,7 @@ public class Main {
         int a=1;
         //第二次更新
         int b=2;
+        int sum=a+b;
+        System.out.println(sum);
     }
 }
